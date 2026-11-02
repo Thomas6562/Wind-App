@@ -1,0 +1,13 @@
+{
+  "background_color": "#464040",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "thomas6562.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "thomas6562.github",
+  "start_url": "/https://thomas6562.github.io/Wind-App/",
+  "theme_color": "#1bf08b",
+  "description": "An app to calculate AWS and AWD on different courses and on different boats",
+  "lang": "de"
+}
